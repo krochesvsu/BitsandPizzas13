@@ -104,7 +104,7 @@ public class MainActivity extends AppCompatActivity {
                 case 3:
                     return getResources().getText(R.string.store_tab);
                 case 4:
-                    return "Salad";
+                    return "Salads";
             }
             return null;
         }
